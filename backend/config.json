@@ -1,0 +1,11 @@
+{
+    "DB":{
+        "host" : "etsy-database.caphir2hzg3k.us-east-1.rds.amazonaws.com",
+        "username" : "admin",
+        "password" : "admin123",
+        "port" : "3306",
+        "database" : "etsydb"
+    },
+    "enableConnectPool": true,
+    "connectionLimit": 10
+}
